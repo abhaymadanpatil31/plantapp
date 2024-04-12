@@ -1,6 +1,6 @@
 import "package:flutter/material.dart";
 // import "package:plant_purchase/get_started.dart";
-import "package:plant_purchase/login_page.dart";
+// import "package:plant_purchase/login_page.dart";
 import "package:plant_purchase/verification.dart";
 
 void main() {
